@@ -208,7 +208,7 @@ export default function Home() {
                   <p className="text-[10px] text-gray-500">Birth to 18 years</p>
                 </div>
               </div>
-              <div
+              {/* <div
                 className={`absolute -top-2 -right-2 md:-right-5 px-3 py-2 bg-white rounded-xl shadow-lg border border-gray-100/80 flex items-center gap-2 transition-all duration-700 ${heroInView ? 'opacity-100 translate-y-0 animate-float' : 'opacity-0 translate-y-4'}`}
                 style={{ transitionDelay: '0.8s', animationDelay: '1s' }}
               >
@@ -217,7 +217,7 @@ export default function Home() {
                   <p className="text-xs font-bold text-gray-800">5.0 Rating</p>
                   <p className="text-[10px] text-gray-500">Happy parents</p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
